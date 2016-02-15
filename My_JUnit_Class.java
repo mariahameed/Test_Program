@@ -225,6 +225,7 @@ public class My_JUnit_Class {
 		 public static void main(String args[])
 		 {
 			 My_JUnit_Class mc = new My_JUnit_Class();
-			 mc.strassen_multiplication();
+			 //mc.strassen_multiplication();
+			 mc.matrix_multiplication();
 		 }				 
 }
